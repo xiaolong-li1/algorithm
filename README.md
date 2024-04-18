@@ -1,2 +1,2 @@
 # algorithm
-Some pleasant trial on the new algorithm
+Some pleasant trials on the new algorithm I learn
